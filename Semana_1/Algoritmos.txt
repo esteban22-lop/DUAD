@@ -1,0 +1,77 @@
+Ver un video en Youtube v1
+
+1. Inicio
+2. Encender la computadora.
+3. Hacer click en el icono del browser.
+4. Escribir Youtube.
+5. Reproducir el video deseado.
+6. Fin
+
+Ver video en Youtube v1.1
+
+1. Inicio
+2. Encender la computadora.
+3. Si no tengo computadora:
+
+         a. Usar el celular.
+
+         b. Sino, usar la smart TV
+
+1. Hacer click en el icono del browser.
+2. Escribir Youtube.
+3. Reproducir el video deseado.
+4. Fin
+
+Un ejemplo de ciclo
+
+1. Inicio
+2. Encender la computadora.
+3. Hacer click en el icono del browser.
+4. Escribir Youtube.
+5. Reproducir musica de hacer oficio.
+6. Mientras suene la musica de hacer oficio
+
+       a. Lavar ropa, cocinar, acomodar el cuarto, etc.
+
+1. Fin
+
+Mi rutina diaria v1
+
+1. Inicio
+2. Despertarse.
+3. Lavarse la cara y dientes.
+4. Desayunar.
+5. Estudiar.
+6. Trabajar.
+7. Ir a entrenar.
+8. Cenar.
+9. Fin
+
+Condición simple del mismo algoritmo
+
+Mi rutina diaria v1.1
+
+1. Inicio
+2. Despertarse
+3. Si es lunes:
+
+        a. Despertar a las 6:00 am para conectarme a una llamada de trabajo
+
+1. Sino, seguir durmiendo
+2. Si es martes:
+
+        a. Ir al gimnasio en la mañana.
+
+1. Sino, conectarse a trabajar a las 9:00 am
+2. Si es miercoles:
+a. Despertar a las 8:00 am para enfocarme en estudiar el programa.
+3. Sino, salir a pasear con mi perro
+4. Si es jueves:
+
+         a. Ir a comprar con mi madre.
+
+1. Sino,  ir a pasear en moto.
+2. Si es viernes:
+a. despertar a las 4:30 am
+3. Sino, hacer ejercicios de meditación.
+4. Fin.

@@ -1,0 +1,65 @@
+Ejercicio #1
+
+1. Inicio
+2. Definir precio_producto
+3. Definir descuento
+4. Definir precio_final
+5. Mostrar “Indique el precio  del producto”
+6. Pedir precio_producto
+7. Si (precio_producto <100) entonces:
+
+            a. descuento =  precio_producto *0.02
+
+1. Sino:
+2. Si (descuento ≥ 100) entonces:
+
+            a. descuento = precio_producto * 0.10
+
+1. FinSi
+2. precio_final = precio_producto - descuento
+3. Mostrar “El precio del producto con su descuento es de”
+4. Mostrar precio_final
+5. Fin
+
+Ejercicio #2
+
+1. Inicio
+2. Definir tiempo_segundos
+3. Definir minutos_a_segundos = 600
+4. Definir segundos_restantes
+5. Mostrar “ Ingrese el tiempo en segundos”
+6. Pedir tiempo_segundos
+7. Si ( tiempo_segundos = minutos_a_segundos) entonces:
+
+          a. Mostrar “Igual”
+
+1. Sino:
+2. Si ( tiempo_segundos > minutos_a_segundos) entonces:
+
+          a. Mostrar “Mayor”
+
+1. Sino:
+2. segundos_restantes = minutos_a_segundos - tiempo_segundos
+3. Mostrar segundos_restantes
+
+        FinSi
+
+1. FinSi
+2. Fin
+
+Ejercicio #3
+
+1. Inicio
+2. Definir numero
+3. Definir suma
+4. suma = 0 
+5. Mostrar “Ingrese un numero”
+6. Pedir numero
+7. Para ( i = 1 hasta numero ) :
+
+          a. suma = suma + i
+
+1. FinPara
+2. Mostrar “La suma de los numeros del 1 hasta el seleccionado es: “
+3. Mostrar suma
+4. Fin
